@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riverawush
+- 👋 Hi, I’m @jinunez-s
 - 👀 I’m interested in javascript, python, C# languages for development, also i would like to learn HTML/CSS.
 - 🌱 I’m currently learning javascript and python. 
 - 💞️ I’m looking to collaborate on personal projects such as web development (My first webpage) and other programs. 
