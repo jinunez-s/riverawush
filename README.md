@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Julio
 #### I am Jr. Java developer
-![I am Jr. Java developer](https://github.com/jinunez-s/jinunez-s/blob/main/image2.jpg)
+<!-- ![I am Jr. Java developer](https://github.com/jinunez-s/jinunez-s/blob/main/image2.jpg)-->
 
 I'm a jr developer that has workend with web developement using Reactjs, javascript, typescript, Nodejs, Bootstrap and workend in the back end with Java, API's REST, SOAP, Spring Boot. 
 
