@@ -5,7 +5,7 @@
 
 I'm a jr developer that has workend with web developement using Reactjs, javascript, typescript, Nodejs, Bootstrap and workend in the back end with Java, API's REST, SOAP, Spring Boot. 
 
-Skills: JAVA / REST / SOAP / REACT / JS / HTML / CSS
+Skills: JAVA / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on RESTful API's 
 - 🌱 I’m currently learning Web Services, Spring Boot, Sockets and Queues 
