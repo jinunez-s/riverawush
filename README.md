@@ -12,7 +12,7 @@ Skills: JAVA / REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Back-end Web development 
 - 💬 Ask me about Front end development, javascript, Java, REST, SOAP 
 - 😄 Pronouns: Julich 
-- ⚡ Fun fact: Like Dota 2 and LoL 
+- ⚡ Hobbies:  Soccer, gym.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/julionun-ez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_julionr)  
