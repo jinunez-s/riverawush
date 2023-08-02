@@ -1,18 +1,23 @@
 
 ### Hi there 👋, my name is Julio
-#### I am Jr. Java developer
+#### I am java developer
 <!-- ![I am Jr. Java developer](https://github.com/jinunez-s/jinunez-s/blob/main/image2.jpg)-->
 
-I'm a jr developer that has workend with web developement using Reactjs, javascript, typescript, Nodejs, Bootstrap and workend in the back end with Java, API's REST, SOAP, Spring Boot. 
+I have been working as a backend developer with Java reviewing classes. 
 
-Skills: JAVA / REACT / JS / HTML / CSS
+I'be created websites using NextJS which is a React Framework that help me with the server side rendering. Some of the websites created with NextJs are Online Store with the functions of sign in, sign up, add to cart,  payment process and review catalog. 
 
-- 🔭 I’m currently working on RESTful API's 
-- 🌱 I’m currently learning Web Services, Spring Boot, Sockets and Queues 
+With the creation of the websitesI have been working with NodeJS to create the server side application and using javascript as the language. 
+
+I've worked with Netcracker where I was a configurator of the catalog providing new configuration for the services of the TV, Internet, SHS, and WHSIA. 
+
+Skills: JAVA / JS /NextJS / NodeJS / HTML / CSS
+
+- 🔭 I’m currently working on Backend
+- 🌱 I’m currently learning FullStack, AWS and Database
 - 👯 I’m looking to collaborate on Back-end Web development 
-- 💬 Ask me about Front end development, javascript, Java, REST, SOAP 
-- 😄 Pronouns: Julich 
-- ⚡ Hobbies:  Soccer, gym.
+- 💬 Ask me about Front end development, javascript, Java, NextJS, NodeJS 
+- ⚡ Hobbies:  Soccer, gym, SCI-FI books, movies, documentaries. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/julionun-ez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_julionr)  
