@@ -5,7 +5,7 @@
 
 I have been working as a backend developer with Java reviewing classes. 
 
-I'be created websites using NextJS which is a React Framework that help me with the server side rendering. Some of the websites created with NextJs are Online Store with the functions of sign in, sign up, add to cart,  payment process and review catalog. 
+I have built websites using NextJS which is a React Framework that help me with the server side rendering. Some of the websites created with NextJs are Online Store with the functions of sign in, sign up, add to cart,  payment process and review catalog. 
 
 With the creation of the websitesI have been working with NodeJS to create the server side application and using javascript as the language. 
 
