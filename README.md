@@ -1,9 +1,9 @@
 
 ### Hi there 👋, my name is Julio
-#### I am java developer
+#### I am Javascript developer
 <!-- ![I am Jr. Java developer](https://github.com/jinunez-s/jinunez-s/blob/main/image2.jpg)-->
 
-I have been working as a backend developer with Java reviewing classes. 
+<!--I have been working as a backend developer with Java reviewing classes. 
 
 I have built websites using NextJS which is a React Framework that help me with the server side rendering. Some of the websites created with NextJs are Online Store with the functions of sign in, sign up, add to cart,  payment process and review catalog. 
 
