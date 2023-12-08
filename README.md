@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Julio Nuñez
-#### I'm Javascript developer
+#### I'm learning Javascript
 <!-- ![I am Jr. Java developer](https://github.com/jinunez-s/jinunez-s/blob/main/image2.jpg)-->
 
 <!--I have been working as a backend developer with Java reviewing classes. 
