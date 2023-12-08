@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Julio
+### Hi there 👋, my name is Julio Nuñez
 #### I'm Javascript developer
 <!-- ![I am Jr. Java developer](https://github.com/jinunez-s/jinunez-s/blob/main/image2.jpg)-->
 
